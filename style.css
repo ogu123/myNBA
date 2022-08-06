@@ -1,0 +1,67 @@
+body{
+    background-color:blue;
+    text-align:center;
+}
+h1{
+    text-align:center;
+    color:red;
+}
+h2{
+    text-align:center;
+    color: white;
+}
+.abominitagus{
+    height:580px;
+    width:420px;
+}
+.abominitagus1{
+    height:580px;
+    width:420px;
+    margin-left:30px;
+}
+.Russell{
+    margin-left:25px;
+    color:red;
+    font-size:28px;
+}
+.TOP10{
+    text-align:left;
+    color:white;
+}
+.poop{
+    color:red;
+}
+.nice{
+    color:white;
+}
+ul{
+    list-style-type: none;
+    display: inline-block;
+    color:red;
+}
+.abc{
+    height:250px;
+    width:425px;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    padding:5px;
+  }
+  .dunk{
+    height:400px;
+    width:500px;
+    float:left;
+  }
+  .LA{
+    color:yellow;
+    float:middle;
+  }
+  .topnav{
+    color:red;
+  }
+  a{
+    color: red;
+  }
